@@ -31,6 +31,9 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+	font-family: HARRYP;
+	 src: url(HARRYP.TTF);
+	 font-size: 30px;
 }
 
 li a:hover {
@@ -39,16 +42,36 @@ li a:hover {
 
 p {
 	font-family: HARRYP;
-	font-size: 30px;
-	color: #ff3333;
+	font-size: 35px;
+	color: #990000;
 }
 
 h1 {
 	font-family: HARRYP;
-	font-size: 55px;
+	font-size: 65px;
 	font-weight: bold;
 	color: #e6e600;
 }
+h2 {
+	font-family: HARRYP;
+	 font-size: 40px;
+	 color: #990000;
+}
+ h3 {
+	 font-size: 75px;
+	 color: #990000;
+	 font-family: HARRYP;
+ }
+ h4 {
+	 font-family: HARRYP;
+	 font-size: 40px;
+	 color: #e6e600;
+ }
+  h6 {
+	 font-family: HARRYP;
+	 font-size: 40px;
+	 color: #990000;
+ }
 header, footer{
 	background-image: url(http://www.potterheadsanonymous.com/images/HogwartsCrests4.jpg);
    background-repeat: no-repeat;
@@ -79,13 +102,4 @@ a:hover {
 	 font-family: HARRYP;
 	 src: url(HARRYP.TTF);
  }
- h6 {
-	 font-family: HARRYP;
-	 font-size: 40px;
-	 color: white;
- }
- h3 {
-	 font-size: 75px;
-	 color: #ff3333;
-	 font-family: HARRYP;
- }
+ 
